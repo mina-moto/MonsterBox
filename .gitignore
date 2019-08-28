@@ -5,3 +5,4 @@ Doxyfile
 .settings
 /build
 /latex
+.DS_Store
